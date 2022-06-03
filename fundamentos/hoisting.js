@@ -12,6 +12,6 @@ teste();
 
 //os dois tem o mesmo efeito
 
-console.log('b=', b)
-let b = 2
 console.log('b=', b);
+let b = 2
+console.log('b=', b); //let retornar erro caso tente aplicar o hoisting
