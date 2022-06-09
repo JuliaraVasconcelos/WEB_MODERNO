@@ -17,7 +17,7 @@ const imprimirResultado = function (nota) {
 }
 
 imprimirResultado(10);
-imprimirResultado(8.9)
+imprimirResultado(8.9);
 imprimirResultado(6.55);
 imprimirResultado(11);
 imprimirResultado(1);
